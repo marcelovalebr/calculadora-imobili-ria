@@ -72,7 +72,7 @@ resultado.pack(pady=10)  # Espaçamento vertical
 # Iniciar a interface gráfica
 janela.mainloop()
 
-Contribuição
+# Contribuição
 
 Sinta-se à vontade para contribuir com melhorias. Faça um fork do projeto, crie uma branch para suas alterações e envie um pull request.
 
@@ -81,7 +81,8 @@ Crie uma branch com a nova feature (git checkout -b feature/nova-feature).
 Comite as alterações (git commit -am 'Adiciona nova feature').
 Envie a branch (git push origin feature/nova-feature).
 Abra um Pull Request.
-Licença
+
+# Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
